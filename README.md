@@ -19,7 +19,8 @@
 
 ## 🌟 Projects
 
--
+- [Identifying Misfires in Roo](https://github.com/plannedparenthood/ai-studio-2024-1b) In collaboration with Planned Parenthood! ML classification model 
+- 
 -
 -
 
