@@ -28,7 +28,7 @@
 ## 📬 Let's Connect!
 
 - 📧 Email: [alexis.evans@bison.howard.edu](mailto:alexis.evans@bison.howard.edu) 
-- 💼 LinkedIn: [https://linkedin.com/in/alexis](https://www.linkedin.com/in/alexisevans27/)
+- 💼 LinkedIn: [https://linkedin.com/in/alexisevans27/](https://www.linkedin.com/in/alexisevans27/)
 
 ---
 
